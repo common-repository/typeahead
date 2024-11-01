@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: typeahead\n"
+"POT-Creation-Date: 2014-07-23 19:35+0800\n"
+"PO-Revision-Date: 2014-07-23 19:35+0800\n"
+"Last-Translator: young <admin@binaryoung.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: typeahead_i18n\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/admin.php:59
+msgid "Suggestion"
+msgstr ""
+
+#: ../inc/admin.php:60
+msgid "Max number of suggestions"
+msgstr ""
+
+#: ../inc/admin.php:61
+msgid "Load jQuery"
+msgstr ""
+
+#: ../inc/admin.php:65
+msgid ""
+"Any suggestions，issues please comment on plugin home page <a href=\"http://"
+"binaryoung.com/typeahead\">check out</a>."
+msgstr ""
+
+#: ../inc/admin.php:81
+msgid ""
+"Whether load jQuery,if your site have already included jquery,please do not "
+"check it."
+msgstr ""
